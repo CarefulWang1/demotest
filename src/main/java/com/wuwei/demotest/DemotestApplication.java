@@ -21,6 +21,9 @@ public class DemotestApplication {
         System.out.println("git wxx分支提交");
         System.out.println("git 代码冲突提交=======");
         System.out.println("git 代码冲突  分支提交");
+
+        System.out.println("git========提交");
+
     }
 
 }
