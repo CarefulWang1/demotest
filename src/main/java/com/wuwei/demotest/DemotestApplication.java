@@ -17,7 +17,7 @@ public class DemotestApplication {
         System.out.println(user);
         System.out.println("git  add  后 又进行了修改");
         System.out.println("git  commit  后 又进行了修改");
-
+        System.out.println("git  commit  后 又进行了提交");
     }
 
 }
